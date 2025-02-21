@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Aruna-Mani/my-app.git/static/css/main.f855e6bc.css",
-    "main.js": "/Aruna-Mani/my-app.git/static/js/main.a843861a.js",
-    "static/js/453.ed3810f9.chunk.js": "/Aruna-Mani/my-app.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/Aruna-Mani/my-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Aruna-Mani/my-app.git/static/css/main.9fe40f7c.css",
+    "main.js": "/Aruna-Mani/my-app.git/static/js/main.2d1fc2aa.js",
     "index.html": "/Aruna-Mani/my-app.git/index.html",
-    "main.f855e6bc.css.map": "/Aruna-Mani/my-app.git/static/css/main.f855e6bc.css.map",
-    "main.a843861a.js.map": "/Aruna-Mani/my-app.git/static/js/main.a843861a.js.map",
-    "453.ed3810f9.chunk.js.map": "/Aruna-Mani/my-app.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.9fe40f7c.css.map": "/Aruna-Mani/my-app.git/static/css/main.9fe40f7c.css.map",
+    "main.2d1fc2aa.js.map": "/Aruna-Mani/my-app.git/static/js/main.2d1fc2aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a843861a.js"
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.2d1fc2aa.js"
   ]
 }
