@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Aruna-Mani/my-app.git",
+  "homepage": "https://Aruna-Mani.github.io/my-app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

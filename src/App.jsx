@@ -3,6 +3,7 @@ import React from "react";
 import Customers from "./Customers";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 const App = () => {
   // const customers = [
   //   { id: 1, name: "John Doe", place: "New York", phoneNumber: "1234567890", emailId: "john@example.com", baseAmount: 100.5 },
